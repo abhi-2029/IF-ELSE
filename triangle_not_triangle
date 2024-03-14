@@ -1,0 +1,16 @@
+/* side==3 , print triangle else not a triangle*/
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int side;
+//     cout<<"Enter the value of side: ";
+//     cin>>side;
+//     if(side==3){
+//         cout<<"This is a triangle";
+//     }else{
+//         cout<<"This is not a triangle";
+//     }
+//     cout<<endl;
+//     return 0;
+// }
