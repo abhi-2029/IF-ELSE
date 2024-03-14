@@ -1,0 +1,16 @@
+/* i/p=num ; o/p = even;odd*/
+
+#include<iostream>
+using namespace std;
+int main(){
+    int num;
+    cout<<"Enter the value of num; ";
+    cin>>num;
+    if(num%2==0){
+        cout<<"Number is even";
+    }else{
+        cout<<"Number is odd";
+    }
+    cout<<endl;
+    return 0;
+}
